@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my repository
-Author - Harshal
+Author - Harshal with (apna college)
